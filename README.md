@@ -32,7 +32,3 @@ Password: testadmin2
 User:<br />
 Login: user@example.com<br />
 Password: testuser
-
-## Author
-
-[Adam Stachowicz](https://github.com/Saibamen) <saibamenppl@gmail.com>
